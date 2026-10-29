@@ -1,0 +1,21 @@
+PatientID,Name,Urgency,Condition
+P10001,John Smith,8,Broken Arm
+P10002,Sarah Jones,10,Chest Pains
+P10003,David Lee,5,Sprained Ankle
+P10004,Emily White,9,Severe Burn
+P10005,Michael Brown,7,Laceration
+P10006,Jessica Davis,3,Common Cold
+P10007,Chris Wilson,10,Difficulty Breathing
+P10008,Amanda Taylor,6,Migraine
+P10009,Daniel Martinez,8,Appendicitis
+P10010,Laura Thomas,9,Allergic Reaction
+P10011,Robert Garcia,4,Fever
+P10012,Linda Rodriguez,7,Back Pain
+P10013,James Hernandez,9,Concussion
+P10014,Maria Lopez,5,Stomach Flu
+P10015,William Gonzalez,10,Seizure
+P10016,Karen Moore,8,Pneumonia
+P10017,Paul Allen,7,Kidney Stone
+P10018,Nancy Young,10,Stroke
+P10019,Mark King,5,Concussion
+P10020,Betty Wright,9,Sepsis
